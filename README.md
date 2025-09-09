@@ -2,8 +2,6 @@
 
 An intelligent e-commerce platform that helps users find the best deals using AI-powered price prediction and comparison features.
 
-![ShopSmart Banner](https://via.placeholder.com/1200x400/007acc/ffffff?text=ShopSmart+AI+Discount+Finder)
-
 ## 🚀 Features
 
 - **Smart Product Search**: Advanced search with filters and sorting options
