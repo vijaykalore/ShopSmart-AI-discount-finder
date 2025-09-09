@@ -1,0 +1,4701 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "Latest iPhone with Pro camera system and titanium design",
+    "imageUrl": "https://example.com/iphone15pro.jpg",
+    "averageRating": 4.7,
+    "tags": [
+      "smartphone",
+      "apple",
+      "5g",
+      "camera",
+      "premium"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.123508",
+        "price": 987.64,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.123508",
+        "price": 944.99,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.123508",
+        "price": 935.6,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.123508",
+        "price": 783.87,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.123508",
+        "price": 748.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.123508",
+        "price": 718.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.123508",
+        "price": 716.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.123508",
+        "price": 736.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.123508",
+        "price": 730.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.123508",
+        "price": 574.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.123508",
+        "price": 566.53,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.123508",
+        "price": 649.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.123508",
+        "price": 709.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.123508",
+        "price": 723.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.123508",
+        "price": 720.79,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.123508",
+        "price": 732.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.123508",
+        "price": 739.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.123508",
+        "price": 765.37,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.123508",
+        "price": 735.17,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.123508",
+        "price": 745.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.123508",
+        "price": 711.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.123508",
+        "price": 712.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.123508",
+        "price": 707.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.123508",
+        "price": 622.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.123508",
+        "price": 717.9,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.123508",
+        "price": 742.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.123508",
+        "price": 713.34,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.123508",
+        "price": 719.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.123508",
+        "price": 744.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.123508",
+        "price": 761.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.123508",
+        "price": 746.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.123508",
+        "price": 730.58,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.123508",
+        "price": 707.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.123508",
+        "price": 631.46,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.123508",
+        "price": 701.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.123508",
+        "price": 607.21,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.123508",
+        "price": 708.51,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.123508",
+        "price": 737.73,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.123508",
+        "price": 722.93,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.123508",
+        "price": 738.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.123508",
+        "price": 712.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.123508",
+        "price": 742.72,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.123508",
+        "price": 718.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.123508",
+        "price": 742.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.123508",
+        "price": 781.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.123508",
+        "price": 811.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.123508",
+        "price": 851.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.123508",
+        "price": 864.5,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.123508",
+        "price": 885.6,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.123508",
+        "price": 775.14,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.123508",
+        "price": 789.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.123508",
+        "price": 786.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.123508",
+        "price": 786.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.123508",
+        "price": 748.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.123508",
+        "price": 775.25,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.123508",
+        "price": 740.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.123508",
+        "price": 723.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.123508",
+        "price": 726.11,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.123508",
+        "price": 757.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.123508",
+        "price": 726.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.123508",
+        "price": 710.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.123508",
+        "price": 717.7,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.123508",
+        "price": 738.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.123508",
+        "price": 716.16,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.123508",
+        "price": 699.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.123508",
+        "price": 721.62,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 721.62,
+    "isActive": true,
+    "_id": "d118ad79-73d5-4e71-8438-"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "description": "Flagship Android smartphone with S Pen and advanced AI features",
+    "imageUrl": "https://example.com/galaxys24.jpg",
+    "averageRating": 4.6,
+    "tags": [
+      "smartphone",
+      "samsung",
+      "android",
+      "s-pen",
+      "camera"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.124741",
+        "price": 862.16,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.124741",
+        "price": 887.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.124741",
+        "price": 892.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.124741",
+        "price": 929.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.124741",
+        "price": 932.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.124741",
+        "price": 969.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.124741",
+        "price": 934.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.124741",
+        "price": 885.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.124741",
+        "price": 921.44,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.124741",
+        "price": 949.44,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.124741",
+        "price": 981.37,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.124741",
+        "price": 930.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.124741",
+        "price": 920.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.124741",
+        "price": 910.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.124741",
+        "price": 741.44,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.124741",
+        "price": 745.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.124741",
+        "price": 745.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.124741",
+        "price": 734.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.124741",
+        "price": 760.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.124741",
+        "price": 765.99,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.124741",
+        "price": 748.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.124741",
+        "price": 750.87,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.124741",
+        "price": 774.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.124741",
+        "price": 701.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.124741",
+        "price": 579.06,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.124741",
+        "price": 629.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.124741",
+        "price": 629.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.124741",
+        "price": 629.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.124741",
+        "price": 655.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.124741",
+        "price": 684.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.124741",
+        "price": 709.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.124741",
+        "price": 696.87,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.124741",
+        "price": 692.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.124741",
+        "price": 701.26,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.124741",
+        "price": 683.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.124741",
+        "price": 680.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.124741",
+        "price": 697.04,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.124741",
+        "price": 667.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.124741",
+        "price": 689.48,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.124741",
+        "price": 692.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.124741",
+        "price": 722.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.124741",
+        "price": 714.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.124741",
+        "price": 711.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.124741",
+        "price": 689.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.124741",
+        "price": 706.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.124741",
+        "price": 642.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.124741",
+        "price": 629.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.124741",
+        "price": 635.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.124741",
+        "price": 648.55,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.124741",
+        "price": 668.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.124741",
+        "price": 684.08,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.124741",
+        "price": 705.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.124741",
+        "price": 724.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.124741",
+        "price": 748.05,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.124741",
+        "price": 760.21,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.124741",
+        "price": 743.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.124741",
+        "price": 725.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.124741",
+        "price": 701.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.124741",
+        "price": 673.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.124741",
+        "price": 679.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.124741",
+        "price": 708.25,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.124741",
+        "price": 732.46,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.124741",
+        "price": 727.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.124741",
+        "price": 633.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.124741",
+        "price": 636.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.124741",
+        "price": 649.58,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.124741",
+        "price": 674.9,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.124741",
+        "price": 664.14,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.124741",
+        "price": 634.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.124741",
+        "price": 629.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.124741",
+        "price": 637.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.124741",
+        "price": 671.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.124741",
+        "price": 674.9,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.124741",
+        "price": 690.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.124741",
+        "price": 711.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.124741",
+        "price": 675.05,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.124741",
+        "price": 679.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.124741",
+        "price": 699.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.124741",
+        "price": 684.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.124741",
+        "price": 710.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.124741",
+        "price": 666.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.124741",
+        "price": 686.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.124741",
+        "price": 684.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.124741",
+        "price": 697.55,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.124741",
+        "price": 687.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.124741",
+        "price": 687.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.124741",
+        "price": 676.04,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.124741",
+        "price": 671.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.124741",
+        "price": 608.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.124741",
+        "price": 629.3,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 629.3,
+    "isActive": true,
+    "_id": "1e087c98-9fb9-46b0-a032-"
+  },
+  {
+    "name": "MacBook Air M3",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "Ultra-thin laptop with M3 chip and all-day battery life",
+    "imageUrl": "https://example.com/macbookair.jpg",
+    "averageRating": 4.8,
+    "tags": [
+      "laptop",
+      "apple",
+      "m3",
+      "ultrabook",
+      "macos"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.125913",
+        "price": 1132.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.125913",
+        "price": 1089.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.125913",
+        "price": 1069.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.125913",
+        "price": 1048.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.125913",
+        "price": 1082.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.125913",
+        "price": 872.08,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.125913",
+        "price": 852.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.125913",
+        "price": 881.73,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.125913",
+        "price": 873.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.125913",
+        "price": 873.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.125913",
+        "price": 880.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.125913",
+        "price": 922.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.125913",
+        "price": 927.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.125913",
+        "price": 774.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.125913",
+        "price": 854.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.125913",
+        "price": 877.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.125913",
+        "price": 755.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.125913",
+        "price": 755.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.125913",
+        "price": 845.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.125913",
+        "price": 859.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.125913",
+        "price": 855.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.125913",
+        "price": 857.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.125913",
+        "price": 694.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.125913",
+        "price": 871.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.125913",
+        "price": 903.39,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.125913",
+        "price": 740.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.125913",
+        "price": 841.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.125913",
+        "price": 689.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.125913",
+        "price": 700.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.125913",
+        "price": 860.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.125913",
+        "price": 865.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.125913",
+        "price": 747.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.125913",
+        "price": 870.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.125913",
+        "price": 900.05,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.125913",
+        "price": 914.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.125913",
+        "price": 878.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.125913",
+        "price": 862.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.125913",
+        "price": 894.15,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.125913",
+        "price": 857.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.125913",
+        "price": 849.11,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.125913",
+        "price": 857.66,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.125913",
+        "price": 711.54,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.125913",
+        "price": 855.08,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.125913",
+        "price": 850.04,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.125913",
+        "price": 724.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.125913",
+        "price": 866.63,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.125913",
+        "price": 699.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.125913",
+        "price": 843.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.125913",
+        "price": 821.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.125913",
+        "price": 847.34,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.125913",
+        "price": 876.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.125913",
+        "price": 907.34,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.125913",
+        "price": 737.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.125913",
+        "price": 700.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.125913",
+        "price": 860.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.125913",
+        "price": 839.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.125913",
+        "price": 864.66,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 864.66,
+    "isActive": true,
+    "_id": "2b8fc25c-5d14-475d-ba97-"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "brand": "Sony",
+    "description": "Industry-leading noise canceling wireless headphones",
+    "imageUrl": "https://example.com/sonywh1000xm5.jpg",
+    "averageRating": 4.5,
+    "tags": [
+      "headphones",
+      "wireless",
+      "noise-canceling",
+      "sony",
+      "audio"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.126377",
+        "price": 356.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.126377",
+        "price": 369.45,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.126377",
+        "price": 358.44,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.126377",
+        "price": 344.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.126377",
+        "price": 360.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.126377",
+        "price": 369.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.126377",
+        "price": 386.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.126377",
+        "price": 382.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.126377",
+        "price": 363.37,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.126377",
+        "price": 379.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.126377",
+        "price": 370.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.126377",
+        "price": 300.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.126377",
+        "price": 308.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.126377",
+        "price": 310.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.126377",
+        "price": 323.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.126377",
+        "price": 320.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.126377",
+        "price": 314.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.126377",
+        "price": 301.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.126377",
+        "price": 295.99,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.126377",
+        "price": 294.74,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.126377",
+        "price": 289.64,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.126377",
+        "price": 299.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.126377",
+        "price": 295.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.126377",
+        "price": 262.14,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.126377",
+        "price": 260.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.126377",
+        "price": 251.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.126377",
+        "price": 259.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.126377",
+        "price": 255.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.126377",
+        "price": 253.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.126377",
+        "price": 246.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.126377",
+        "price": 252.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.126377",
+        "price": 257.87,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.126377",
+        "price": 265.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.126377",
+        "price": 275.66,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.126377",
+        "price": 269.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.126377",
+        "price": 278.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.126377",
+        "price": 266.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.126377",
+        "price": 263.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.126377",
+        "price": 263.69,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.126377",
+        "price": 256.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.126377",
+        "price": 255.41,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.126377",
+        "price": 251.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.126377",
+        "price": 250.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.126377",
+        "price": 248.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.126377",
+        "price": 254.5,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.126377",
+        "price": 265.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.126377",
+        "price": 272.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.126377",
+        "price": 262.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.126377",
+        "price": 258.06,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.126377",
+        "price": 247.45,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.126377",
+        "price": 250.16,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.126377",
+        "price": 257.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.126377",
+        "price": 255.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.126377",
+        "price": 213.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.126377",
+        "price": 252.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.126377",
+        "price": 202.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.126377",
+        "price": 247.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.126377",
+        "price": 249.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.126377",
+        "price": 249.72,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.126377",
+        "price": 221.27,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.126377",
+        "price": 255.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.126377",
+        "price": 248.51,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.126377",
+        "price": 251.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.126377",
+        "price": 254.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.126377",
+        "price": 260.63,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.126377",
+        "price": 267.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.126377",
+        "price": 256.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.126377",
+        "price": 263.88,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.126377",
+        "price": 253.66,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.126377",
+        "price": 220.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.126377",
+        "price": 244.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.126377",
+        "price": 230.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.126377",
+        "price": 244.3,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 244.3,
+    "isActive": true,
+    "_id": "b9742a2b-eac2-43b4-9eb6-"
+  },
+  {
+    "name": "Nike Air Max 270",
+    "category": "Fashion",
+    "brand": "Nike",
+    "description": "Lifestyle sneakers with Max Air unit for all-day comfort",
+    "imageUrl": "https://example.com/airmax270.jpg",
+    "averageRating": 4.3,
+    "tags": [
+      "sneakers",
+      "nike",
+      "air-max",
+      "casual",
+      "comfort"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.127013",
+        "price": 127.46,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.127013",
+        "price": 127.99,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.127013",
+        "price": 126.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.127013",
+        "price": 123.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.127013",
+        "price": 124.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.127013",
+        "price": 118.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.127013",
+        "price": 114.54,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.127013",
+        "price": 112.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.127013",
+        "price": 115.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.127013",
+        "price": 119.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.127013",
+        "price": 123.04,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.127013",
+        "price": 120.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.127013",
+        "price": 125.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.127013",
+        "price": 127.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.127013",
+        "price": 131.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.127013",
+        "price": 104.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.127013",
+        "price": 85.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.127013",
+        "price": 94.53,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.127013",
+        "price": 96.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.127013",
+        "price": 93.44,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.127013",
+        "price": 91.9,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.127013",
+        "price": 91.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.127013",
+        "price": 92.83,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.127013",
+        "price": 80.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.127013",
+        "price": 94.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.127013",
+        "price": 98.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.127013",
+        "price": 81.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.127013",
+        "price": 91.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.127013",
+        "price": 91.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.127013",
+        "price": 91.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.127013",
+        "price": 76.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.127013",
+        "price": 83.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.127013",
+        "price": 91.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.127013",
+        "price": 95.66,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.127013",
+        "price": 90.88,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.127013",
+        "price": 91.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.127013",
+        "price": 94.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.127013",
+        "price": 97.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.127013",
+        "price": 97.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.127013",
+        "price": 94.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.127013",
+        "price": 91.54,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.127013",
+        "price": 89.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.127013",
+        "price": 92.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.127013",
+        "price": 93.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.127013",
+        "price": 92.88,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.127013",
+        "price": 76.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.127013",
+        "price": 91.87,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.127013",
+        "price": 96.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.127013",
+        "price": 95.26,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.127013",
+        "price": 96.21,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.127013",
+        "price": 97.93,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.127013",
+        "price": 101.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.127013",
+        "price": 98.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.127013",
+        "price": 97.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.127013",
+        "price": 96.55,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.127013",
+        "price": 100.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.127013",
+        "price": 98.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.127013",
+        "price": 97.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.127013",
+        "price": 98.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.127013",
+        "price": 94.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.127013",
+        "price": 95.21,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.127013",
+        "price": 99.11,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.127013",
+        "price": 96.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.127013",
+        "price": 84.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.127013",
+        "price": 94.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.127013",
+        "price": 93.6,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.127013",
+        "price": 94.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.127013",
+        "price": 93.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.127013",
+        "price": 92.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.127013",
+        "price": 94.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.127013",
+        "price": 91.08,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.127013",
+        "price": 91.0,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 91.0,
+    "isActive": true,
+    "_id": "26aec628-4cde-4691-a5fb-"
+  },
+  {
+    "name": "Instant Pot Duo 7-in-1",
+    "category": "Home & Kitchen",
+    "brand": "Instant Pot",
+    "description": "Electric pressure cooker with 7 cooking functions",
+    "imageUrl": "https://example.com/instantpot.jpg",
+    "averageRating": 4.6,
+    "tags": [
+      "pressure-cooker",
+      "kitchen",
+      "appliance",
+      "multi-function"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.127546",
+        "price": 89.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.127546",
+        "price": 92.51,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.127546",
+        "price": 93.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.127546",
+        "price": 73.55,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.127546",
+        "price": 74.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.127546",
+        "price": 61.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.127546",
+        "price": 63.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.127546",
+        "price": 64.7,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.127546",
+        "price": 64.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.127546",
+        "price": 50.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.127546",
+        "price": 64.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.127546",
+        "price": 65.79,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.127546",
+        "price": 64.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.127546",
+        "price": 65.34,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.127546",
+        "price": 67.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.127546",
+        "price": 68.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.127546",
+        "price": 70.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.127546",
+        "price": 69.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.127546",
+        "price": 69.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.127546",
+        "price": 68.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.127546",
+        "price": 69.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.127546",
+        "price": 70.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.127546",
+        "price": 72.92,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.127546",
+        "price": 73.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.127546",
+        "price": 74.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.127546",
+        "price": 66.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.127546",
+        "price": 53.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.127546",
+        "price": 64.21,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.127546",
+        "price": 66.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.127546",
+        "price": 65.89,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.127546",
+        "price": 64.16,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.127546",
+        "price": 62.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.127546",
+        "price": 53.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.127546",
+        "price": 64.63,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.127546",
+        "price": 63.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.127546",
+        "price": 64.87,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.127546",
+        "price": 60.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.127546",
+        "price": 62.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.127546",
+        "price": 63.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.127546",
+        "price": 63.55,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.127546",
+        "price": 54.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.127546",
+        "price": 63.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.127546",
+        "price": 64.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.127546",
+        "price": 64.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.127546",
+        "price": 62.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.127546",
+        "price": 64.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.127546",
+        "price": 62.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.127546",
+        "price": 64.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.127546",
+        "price": 64.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.127546",
+        "price": 62.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.127546",
+        "price": 63.6,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.127546",
+        "price": 63.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.127546",
+        "price": 63.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.127546",
+        "price": 65.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.127546",
+        "price": 63.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.127546",
+        "price": 63.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.127546",
+        "price": 62.3,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 62.3,
+    "isActive": true,
+    "_id": "7bb0963a-c7f0-43e7-aec6-"
+  },
+  {
+    "name": "The Psychology of Money",
+    "category": "Books",
+    "brand": "Harriman House",
+    "description": "Timeless lessons on wealth, greed, and happiness by Morgan Housel",
+    "imageUrl": "https://example.com/psychologyofmoney.jpg",
+    "averageRating": 4.7,
+    "tags": [
+      "finance",
+      "psychology",
+      "investing",
+      "money",
+      "bestseller"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.127869",
+        "price": 16.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.127869",
+        "price": 16.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.127869",
+        "price": 16.11,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.127869",
+        "price": 13.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.127869",
+        "price": 13.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.127869",
+        "price": 13.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.127869",
+        "price": 13.26,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.127869",
+        "price": 12.17,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.127869",
+        "price": 11.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.127869",
+        "price": 11.54,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.127869",
+        "price": 12.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.127869",
+        "price": 11.41,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.127869",
+        "price": 9.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.127869",
+        "price": 11.51,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.127869",
+        "price": 11.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.127869",
+        "price": 11.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.127869",
+        "price": 11.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.127869",
+        "price": 11.92,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.127869",
+        "price": 11.84,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.127869",
+        "price": 11.41,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.127869",
+        "price": 11.45,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.127869",
+        "price": 9.79,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.127869",
+        "price": 11.7,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.127869",
+        "price": 11.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.127869",
+        "price": 11.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.127869",
+        "price": 11.72,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.127869",
+        "price": 12.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.127869",
+        "price": 11.93,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.127869",
+        "price": 11.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.127869",
+        "price": 11.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.127869",
+        "price": 11.25,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.127869",
+        "price": 11.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.127869",
+        "price": 11.22,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.127869",
+        "price": 11.39,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.127869",
+        "price": 11.53,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.127869",
+        "price": 10.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.127869",
+        "price": 11.6,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.127869",
+        "price": 11.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.127869",
+        "price": 12.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.127869",
+        "price": 12.72,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.127869",
+        "price": 13.15,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.127869",
+        "price": 12.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.127869",
+        "price": 11.58,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.127869",
+        "price": 11.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.127869",
+        "price": 11.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.127869",
+        "price": 11.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.127869",
+        "price": 11.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.127869",
+        "price": 11.46,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.127869",
+        "price": 11.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.127869",
+        "price": 11.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.127869",
+        "price": 11.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.127869",
+        "price": 11.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.127869",
+        "price": 11.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.127869",
+        "price": 9.69,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.127869",
+        "price": 11.48,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.127869",
+        "price": 11.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.127869",
+        "price": 10.69,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.127869",
+        "price": 11.2,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.127869",
+        "price": 11.34,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.127869",
+        "price": 11.79,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.127869",
+        "price": 11.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.127869",
+        "price": 11.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.127869",
+        "price": 11.27,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.127869",
+        "price": 11.5,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.127869",
+        "price": 12.01,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.127869",
+        "price": 12.05,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.127869",
+        "price": 12.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.127869",
+        "price": 12.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.127869",
+        "price": 12.73,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 12.73,
+    "isActive": true,
+    "_id": "0bf5fd10-85f5-4f31-8156-"
+  },
+  {
+    "name": "Fitbit Charge 6",
+    "category": "Electronics",
+    "brand": "Fitbit",
+    "description": "Advanced fitness tracker with built-in GPS and heart rate monitoring",
+    "imageUrl": "https://example.com/fitbitcharge6.jpg",
+    "averageRating": 4.4,
+    "tags": [
+      "fitness",
+      "tracker",
+      "health",
+      "gps",
+      "heart-rate"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.128234",
+        "price": 137.54,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.128234",
+        "price": 130.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.128234",
+        "price": 125.16,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.128234",
+        "price": 124.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.128234",
+        "price": 129.31,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.128234",
+        "price": 126.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.128234",
+        "price": 127.21,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.128234",
+        "price": 131.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.128234",
+        "price": 135.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.128234",
+        "price": 130.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.128234",
+        "price": 129.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.128234",
+        "price": 125.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.128234",
+        "price": 126.6,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.128234",
+        "price": 120.05,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.128234",
+        "price": 120.89,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.128234",
+        "price": 122.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.128234",
+        "price": 124.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.128234",
+        "price": 127.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.128234",
+        "price": 125.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.128234",
+        "price": 125.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.128234",
+        "price": 129.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.128234",
+        "price": 134.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.128234",
+        "price": 130.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.128234",
+        "price": 135.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.128234",
+        "price": 135.06,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.128234",
+        "price": 139.25,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.128234",
+        "price": 142.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.128234",
+        "price": 139.14,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.128234",
+        "price": 137.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.128234",
+        "price": 140.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.128234",
+        "price": 140.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.128234",
+        "price": 133.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.128234",
+        "price": 136.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.128234",
+        "price": 143.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.128234",
+        "price": 144.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.128234",
+        "price": 144.83,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.128234",
+        "price": 137.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.128234",
+        "price": 119.57,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.128234",
+        "price": 100.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.128234",
+        "price": 114.73,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.128234",
+        "price": 113.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.128234",
+        "price": 116.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.128234",
+        "price": 111.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.128234",
+        "price": 115.92,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.128234",
+        "price": 117.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.128234",
+        "price": 120.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.128234",
+        "price": 116.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.128234",
+        "price": 116.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.128234",
+        "price": 116.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.128234",
+        "price": 112.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.128234",
+        "price": 113.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.128234",
+        "price": 116.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.128234",
+        "price": 113.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.128234",
+        "price": 94.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.128234",
+        "price": 115.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.128234",
+        "price": 115.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.128234",
+        "price": 117.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.128234",
+        "price": 94.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.128234",
+        "price": 113.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.128234",
+        "price": 118.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.128234",
+        "price": 117.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.128234",
+        "price": 120.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.128234",
+        "price": 116.91,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.128234",
+        "price": 114.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.128234",
+        "price": 117.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.128234",
+        "price": 119.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.128234",
+        "price": 118.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.128234",
+        "price": 109.23,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.128234",
+        "price": 111.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.128234",
+        "price": 115.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.128234",
+        "price": 111.93,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.128234",
+        "price": 117.05,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.128234",
+        "price": 122.48,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.128234",
+        "price": 119.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.128234",
+        "price": 118.55,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.128234",
+        "price": 121.14,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.128234",
+        "price": 124.21,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 124.21,
+    "isActive": true,
+    "_id": "c7a081e7-3397-4cd9-a342-"
+  },
+  {
+    "name": "Dyson V15 Detect",
+    "category": "Home & Kitchen",
+    "brand": "Dyson",
+    "description": "Cordless vacuum with laser dust detection and powerful suction",
+    "imageUrl": "https://example.com/dysonv15.jpg",
+    "averageRating": 4.5,
+    "tags": [
+      "vacuum",
+      "cordless",
+      "dyson",
+      "cleaning",
+      "laser-detect"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.128580",
+        "price": 751.07,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.128580",
+        "price": 766.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.128580",
+        "price": 736.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.128580",
+        "price": 652.43,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.128580",
+        "price": 640.26,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.128580",
+        "price": 607.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.128580",
+        "price": 585.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.128580",
+        "price": 556.83,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.128580",
+        "price": 545.4,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.128580",
+        "price": 546.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.128580",
+        "price": 548.61,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.128580",
+        "price": 540.72,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.128580",
+        "price": 543.81,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.128580",
+        "price": 532.49,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.128580",
+        "price": 527.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.128580",
+        "price": 455.84,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.128580",
+        "price": 534.58,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.128580",
+        "price": 533.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.128580",
+        "price": 498.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.128580",
+        "price": 532.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.128580",
+        "price": 526.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.128580",
+        "price": 494.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.128580",
+        "price": 548.34,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.128580",
+        "price": 462.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.128580",
+        "price": 547.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.128580",
+        "price": 543.7,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.128580",
+        "price": 459.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.128580",
+        "price": 530.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.128580",
+        "price": 532.71,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.128580",
+        "price": 441.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.128580",
+        "price": 481.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.128580",
+        "price": 423.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.128580",
+        "price": 495.27,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.128580",
+        "price": 528.12,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.128580",
+        "price": 491.36,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.128580",
+        "price": 524.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.128580",
+        "price": 542.25,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.128580",
+        "price": 529.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.128580",
+        "price": 555.73,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.128580",
+        "price": 551.13,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.128580",
+        "price": 530.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.128580",
+        "price": 528.7,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.128580",
+        "price": 527.69,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.128580",
+        "price": 543.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.128580",
+        "price": 539.77,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.128580",
+        "price": 533.5,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.128580",
+        "price": 542.19,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.128580",
+        "price": 443.18,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.128580",
+        "price": 524.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.128580",
+        "price": 534.79,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.128580",
+        "price": 541.84,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 541.84,
+    "isActive": true,
+    "_id": "a67a5146-eae9-4d2b-84f2-"
+  },
+  {
+    "name": "Levi's 501 Original Jeans",
+    "category": "Fashion",
+    "brand": "Levi's",
+    "description": "Classic straight-leg jeans with authentic fit and feel",
+    "imageUrl": "https://example.com/levis501.jpg",
+    "averageRating": 4.2,
+    "tags": [
+      "jeans",
+      "denim",
+      "levis",
+      "classic",
+      "straight-leg"
+    ],
+    "priceHistory": [
+      {
+        "date": "2025-06-12T00:58:14.128932",
+        "price": 57.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-13T00:58:14.128932",
+        "price": 55.02,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-14T00:58:14.128932",
+        "price": 54.99,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-15T00:58:14.128932",
+        "price": 45.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-16T00:58:14.128932",
+        "price": 37.89,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-17T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-18T00:58:14.128932",
+        "price": 42.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-19T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-20T00:58:14.128932",
+        "price": 42.51,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-21T00:58:14.128932",
+        "price": 42.35,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-22T00:58:14.128932",
+        "price": 43.41,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-23T00:58:14.128932",
+        "price": 43.32,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-24T00:58:14.128932",
+        "price": 42.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-25T00:58:14.128932",
+        "price": 34.86,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-26T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-27T00:58:14.128932",
+        "price": 42.73,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-28T00:58:14.128932",
+        "price": 37.27,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-29T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-06-30T00:58:14.128932",
+        "price": 42.76,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-01T00:58:14.128932",
+        "price": 44.52,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-02T00:58:14.128932",
+        "price": 45.45,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-03T00:58:14.128932",
+        "price": 44.63,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-04T00:58:14.128932",
+        "price": 45.33,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-05T00:58:14.128932",
+        "price": 46.03,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-06T00:58:14.128932",
+        "price": 43.95,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-07T00:58:14.128932",
+        "price": 45.75,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-08T00:58:14.128932",
+        "price": 47.09,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-09T00:58:14.128932",
+        "price": 46.59,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-10T00:58:14.128932",
+        "price": 48.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-11T00:58:14.128932",
+        "price": 47.11,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-12T00:58:14.128932",
+        "price": 46.89,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-13T00:58:14.128932",
+        "price": 44.45,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-14T00:58:14.128932",
+        "price": 46.64,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-15T00:58:14.128932",
+        "price": 47.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-16T00:58:14.128932",
+        "price": 46.24,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-17T00:58:14.128932",
+        "price": 43.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-18T00:58:14.128932",
+        "price": 45.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-19T00:58:14.128932",
+        "price": 45.88,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-20T00:58:14.128932",
+        "price": 44.83,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-21T00:58:14.128932",
+        "price": 45.8,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-22T00:58:14.128932",
+        "price": 44.28,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-23T00:58:14.128932",
+        "price": 43.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-24T00:58:14.128932",
+        "price": 43.47,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-25T00:58:14.128932",
+        "price": 43.1,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-26T00:58:14.128932",
+        "price": 42.42,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-27T00:58:14.128932",
+        "price": 43.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-28T00:58:14.128932",
+        "price": 41.96,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-29T00:58:14.128932",
+        "price": 37.99,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-30T00:58:14.128932",
+        "price": 38.54,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-07-31T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-01T00:58:14.128932",
+        "price": 35.56,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-02T00:58:14.128932",
+        "price": 33.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-03T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-04T00:58:14.128932",
+        "price": 42.37,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-05T00:58:14.128932",
+        "price": 43.39,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-06T00:58:14.128932",
+        "price": 41.58,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-07T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-08T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-09T00:58:14.128932",
+        "price": 35.45,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-10T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-11T00:58:14.128932",
+        "price": 36.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-12T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-13T00:58:14.128932",
+        "price": 42.98,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-14T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-15T00:58:14.128932",
+        "price": 42.29,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-16T00:58:14.128932",
+        "price": 43.89,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-17T00:58:14.128932",
+        "price": 42.64,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-18T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-19T00:58:14.128932",
+        "price": 42.0,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-20T00:58:14.128932",
+        "price": 41.68,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-21T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-22T00:58:14.128932",
+        "price": 40.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-23T00:58:14.128932",
+        "price": 41.38,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-24T00:58:14.128932",
+        "price": 33.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-25T00:58:14.128932",
+        "price": 41.3,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-26T00:58:14.128932",
+        "price": 42.04,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-27T00:58:14.128932",
+        "price": 43.85,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-28T00:58:14.128932",
+        "price": 42.94,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-29T00:58:14.128932",
+        "price": 44.62,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-30T00:58:14.128932",
+        "price": 44.64,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-08-31T00:58:14.128932",
+        "price": 43.67,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-01T00:58:14.128932",
+        "price": 45.65,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-02T00:58:14.128932",
+        "price": 46.04,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-03T00:58:14.128932",
+        "price": 45.08,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-04T00:58:14.128932",
+        "price": 46.08,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-05T00:58:14.128932",
+        "price": 47.97,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-06T00:58:14.128932",
+        "price": 49.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-07T00:58:14.128932",
+        "price": 48.82,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-08T00:58:14.128932",
+        "price": 49.78,
+        "source": "sample_data"
+      },
+      {
+        "date": "2025-09-09T00:58:14.128932",
+        "price": 49.49,
+        "source": "sample_data"
+      }
+    ],
+    "currentPrice": 49.49,
+    "isActive": true,
+    "_id": "cf0845b1-accf-4f6f-aed9-"
+  }
+]

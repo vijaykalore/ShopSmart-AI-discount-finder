@@ -1,0 +1,247 @@
+.header {
+  background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 0;
+}
+
+/* Logo */
+.logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}
+
+.logo-icon {
+  font-size: 2rem;
+  margin-right: 0.75rem;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  letter-spacing: -0.025em;
+}
+
+/* Desktop Navigation */
+.nav-desktop {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.nav-link {
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+}
+
+.nav-link:hover {
+  color: white;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-link:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Active link styling */
+.nav-link.active {
+  color: #60a5fa;
+  background-color: rgba(96, 165, 250, 0.1);
+}
+
+/* Mobile Menu Button */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  margin-right: -0.5rem;
+}
+
+.hamburger {
+  display: flex;
+  flex-direction: column;
+  width: 24px;
+  height: 18px;
+  position: relative;
+}
+
+.hamburger span {
+  display: block;
+  height: 2px;
+  width: 100%;
+  background-color: white;
+  border-radius: 1px;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transform-origin: center;
+}
+
+.hamburger span:nth-child(1) {
+  position: absolute;
+  top: 0;
+}
+
+.hamburger span:nth-child(2) {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hamburger span:nth-child(3) {
+  position: absolute;
+  bottom: 0;
+}
+
+/* Hamburger animation when open */
+.hamburger.open span:nth-child(1) {
+  transform: rotate(45deg) translate(6px, 6px);
+}
+
+.hamburger.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.open span:nth-child(3) {
+  transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* Mobile Navigation */
+.nav-mobile {
+  display: none;
+  flex-direction: column;
+  padding: 1rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 1rem;
+}
+
+.nav-mobile.open {
+  display: flex;
+}
+
+.nav-link-mobile {
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 1rem 0;
+  transition: color 0.2s ease-in-out;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.nav-link-mobile:hover {
+  color: white;
+}
+
+.nav-link-mobile:last-child {
+  border-bottom: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .nav-desktop {
+    display: none;
+  }
+  
+  .menu-toggle {
+    display: block;
+  }
+  
+  .logo-text {
+    font-size: 1.25rem;
+  }
+  
+  .logo-icon {
+    font-size: 1.75rem;
+    margin-right: 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-content {
+    padding: 0.75rem 0;
+  }
+  
+  .logo-text {
+    font-size: 1.125rem;
+  }
+  
+  .logo-icon {
+    font-size: 1.5rem;
+  }
+}
+
+/* Animation for mobile menu slide down */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.nav-mobile.open {
+  animation: slideDown 0.3s ease-out;
+}
+
+/* Focus management for accessibility */
+.menu-toggle:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+  border-radius: 0.25rem;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .header {
+    background: #000;
+    border-bottom: 2px solid #fff;
+  }
+  
+  .nav-link,
+  .nav-link-mobile {
+    border: 1px solid transparent;
+  }
+  
+  .nav-link:hover,
+  .nav-link-mobile:hover {
+    border-color: #fff;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .logo,
+  .nav-link,
+  .nav-link-mobile,
+  .hamburger span {
+    transition: none;
+  }
+  
+  .nav-mobile.open {
+    animation: none;
+  }
+}
