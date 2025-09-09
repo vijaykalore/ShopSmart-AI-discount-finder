@@ -5,11 +5,12 @@
   "main": "backend/server_standalone.js",
   "scripts": {
     "start": "cd backend && npm run standalone",
-    "build": "cd frontend && npm run build",
+    "build": "cd frontend && npm install && npm run build && cp -r frontend/build/* . 2>/dev/null || xcopy frontend\\build\\* . /E /I /Y",
     "dev": "concurrently \"cd ml-service && python app_simple.py\" \"cd backend && npm run standalone\" \"cd frontend && npm start\"",
     "install-all": "cd frontend && npm install && cd ../backend && npm install && cd ../ml-service && pip install -r requirements.txt",
     "setup": "npm run install-all",
-    "test": "cd frontend && npm test && cd ../backend && npm test"
+    "test": "cd frontend && npm test && cd ../backend && npm test",
+    "vercel-build": "cd frontend && npm install && npm run build"
   },
   "dependencies": {
     "concurrently": "^7.6.0"
