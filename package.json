@@ -1,0 +1,39 @@
+{
+  "name": "shopsmart-ai-discount-finder",
+  "version": "1.0.0",
+  "description": "Complete ShopSmart - AI Discount Finder project with frontend, backend, and ML service",
+  "main": "backend/server_standalone.js",
+  "scripts": {
+    "start": "cd backend && npm run standalone",
+    "build": "cd frontend && npm run build",
+    "dev": "concurrently \"cd ml-service && python app_simple.py\" \"cd backend && npm run standalone\" \"cd frontend && npm start\"",
+    "install-all": "cd frontend && npm install && cd ../backend && npm install && cd ../ml-service && pip install -r requirements.txt",
+    "setup": "npm run install-all",
+    "test": "cd frontend && npm test && cd ../backend && npm test"
+  },
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "keywords": [
+    "ecommerce",
+    "ai",
+    "machine-learning",
+    "price-prediction",
+    "react",
+    "nodejs",
+    "python",
+    "flask"
+  ],
+  "author": "Vijay Kalore",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijaykalore/ShopSmart-AI-discount-finder.git"
+  },
+  "homepage": "https://github.com/vijaykalore/ShopSmart-AI-discount-finder"
+}
